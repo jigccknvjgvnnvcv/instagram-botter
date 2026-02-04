@@ -15,10 +15,10 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
+ account_name=input("ljd1285_the_pro ")
    if account_name=="":
-     print('please input a real name')
-   else if req.on(`www.instagram.com/%account_name%`)==Flase:
+     print('ljd1285_the_pro')
+   else if req.on(``)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
  print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
@@ -45,9 +45,8 @@ def __main__:
        else if choose=="3":
           print("welcome to the followers botter for Instagram") 
               print("")
-                  print("please donate $5 to this paypal to access the follower gen")
-              btc.ppl("https://paypal.me/InstaGenNtrx") # may not work from september to december 2022
-       btc.checkForTransac("local --ip & paypal.com/me")
+                  
+       
             if transac == True:
                   print('welcome to the gen')
                       &&code.acces('repl.fllwrs-code')
